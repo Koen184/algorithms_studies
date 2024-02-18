@@ -1,2 +1,2 @@
 # algorithms_studies
-Algorithms and data structures - codes from labolatories
+Repository containing codes related to the Algorithms and Data Structures course - semester 4.
